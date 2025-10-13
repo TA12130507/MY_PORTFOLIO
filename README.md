@@ -1,2 +1,2 @@
 # MY_PORTFOLIO
-My Web Portfolio. **Coming Soon**
+My Web Portfolio. (Coming Soon)
